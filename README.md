@@ -9,7 +9,7 @@ Semi-parametric decolorization with Laplacian-based perceptual quality metric
 % Copyright 2017, Department of Electronic Information Engineering, Nanchang University.  
 % The current version is not optimized.  
 
-%SPDecolor - contrast preserving color to gray by Semi-Parametric optimization  
+% SPDecolor - contrast preserving color to gray by Semi-Parametric optimization  
 % S = SPDecolor(Im, sigma)   
 % @Im : Input image (double), only color images are acceptable.   
 % @sigma : Controlling parameter defined in [1]. 5e-3 by default.  
