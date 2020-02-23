@@ -10,8 +10,7 @@ Semi-parametric decolorization with Laplacian-based perceptual quality metric
 % The current version is not optimized.  
 
 %SPDecolor - contrast preserving color to gray by Semi-Parametric optimization  
-% S = SPDecolor(Im, sigma) 
-% Paras:   
+% S = SPDecolor(Im, sigma)   
 % @Im : Input image (double), only color images are acceptable.   
 % @sigma : Controlling parameter defined in [1]. 5e-3 by default.  
 %  
