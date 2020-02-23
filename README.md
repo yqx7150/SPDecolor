@@ -1,8 +1,8 @@
 # SPDecolor
 Semi-parametric decolorization with Laplacian-based perceptual quality metric
  
-%% The Code is created based on the method described in the following paper:  
-% Q. Liu, X. Liu, Y. Wang, H. Leung. Semi-parametric decolorization with Laplacian-based perceptual quality metric, 
+% The Code is created based on the method described in the following paper:  
+% Q. Liu, X. Liu, Y. Wang, H. Leung. Semi-parametric decolorization with Laplacian-based perceptual quality metric,   
 % IEEE Trans. Circuits Syst. Video Technol., 27(9): 1856-1868, 2017.  
 % Version : 1.0  
 % The code and the algorithm are for non-comercial use only.  
